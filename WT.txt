@@ -9,3 +9,7 @@ WHATSUP
 4. AUDIO CAL CONFERENCE
 
 5.MAKE POSSIBLE
+
+6.Audio cal 
+
+7.video cal
